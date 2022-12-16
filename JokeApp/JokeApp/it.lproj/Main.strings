@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Enter your Joke"; ObjectID = "0jX-2u-VcR"; */
+"0jX-2u-VcR.text" = "Inserisci la tua battuta";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "GB9-ty-O4o"; */
+"GB9-ty-O4o.normalTitle" = "Salva";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "Jwe-El-VvT"; */
+"Jwe-El-VvT.normalTitle" = "5";
+
+/* Class = "UITextField"; placeholder = "Enter Your Joke Set Up"; ObjectID = "MBg-Cq-L0a"; */
+"MBg-Cq-L0a.placeholder" = "Inserisci il tuo set up scherzo";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "aHe-m6-zbW"; */
+"aHe-m6-zbW.normalTitle" = "2";
+
+/* Class = "UIBarButtonItem"; title = "Write Joke"; ObjectID = "aZJ-8X-blq"; */
+"aZJ-8X-blq.title" = "Scrivi Scherzo";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "c6P-oR-Rj6"; */
+"c6P-oR-Rj6.normalTitle" = "3";
+
+/* Class = "UITextField"; placeholder = "Enter Your Punchline"; ObjectID = "gda-t7-jsY"; */
+"gda-t7-jsY.placeholder" = "Inserisci la tua battuta finale";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "gjx-qD-rfJ"; */
+"gjx-qD-rfJ.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "gkJ-4f-TnI"; */
+"gkJ-4f-TnI.normalTitle" = "Salva";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "ipn-hO-lCm"; */
+"ipn-hO-lCm.normalTitle" = "4";
+
+/* Class = "UINavigationItem"; title = "Select Humor"; ObjectID = "kQx-nh-rsj"; */
+"kQx-nh-rsj.title" = "Seleziona Umorismo";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "lNh-if-JfH"; */
+"lNh-if-JfH.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "programming"; ObjectID = "lgp-Yh-Ide"; */
+"lgp-Yh-Ide.normalTitle" = "programmazione";
+
+/* Class = "UIButton"; normalTitle = "general"; ObjectID = "rKo-6F-8mf"; */
+"rKo-6F-8mf.normalTitle" = "generale";
+
+/* Class = "UIButton"; normalTitle = "My Joke"; ObjectID = "z8q-uj-ECJ"; */
+"z8q-uj-ECJ.normalTitle" = "Il mio scherzo";

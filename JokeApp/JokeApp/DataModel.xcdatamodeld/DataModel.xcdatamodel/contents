@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21512" systemVersion="22A400" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Jokes" representedClassName=".Jokes" syncable="YES" codeGenerationType="class">
+        <attribute name="answerxxxxx" attributeType="String"/>
+        <attribute name="joke" attributeType="String"/>
+        <attribute name="jokeId" optional="YES" attributeType="String"/>
+        <attribute name="jokeNumber" optional="YES" attributeType="String"/>
+    </entity>
+</model>
